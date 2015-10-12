@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.tutorialspoint.lucene&apos; to &apos;com.mycompany.lucene&apos;&#x0D;&#x0A;- Original project: &apos;LuceneTestApp&apos;&#x0D;&#x0A;- Original element: &apos;LuceneTestApp/src/com.tutorialspoint.lucene&apos;&#x0D;&#x0A;- Renamed element: &apos;LuceneTestApp/src/com.mycompany.lucene&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.tutorialspoint.lucene&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.tutorialspoint.lucene" name="com.mycompany.lucene" qualified="false" references="true" stamp="1444649859768" textual="false" version="1.0"/>
+</session>

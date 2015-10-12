@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 20 resources" deleteContents="false" description="Delete 20 resources" element1="/beanutils-wrapper" element10="/girlscouts-vtk-app" element11="/girlscouts-vtk-bundle" element12="/girlscouts-vtk-replication-bundle" element13="/girlscouts-vtk-scaffolding-bundle" element14="/google-collections-wrapper" element15="/ical4j-wrapper" element16="/itextpdf-wrapper" element17="/migrate-tools" element18="/modified-checker-bundle" element19="/pdfbox-wrapper" element2="/boon-wrapper" element20="/vtk-meeting-loader" element3="/duplicate-meeting-updater" element4="/event-timezone-updater" element5="/girlscouts" element6="/girlscouts-app" element7="/girlscouts-bundle" element8="/girlscouts-content" element9="/girlscouts-vtk" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="20" stamp="1436535313055"/>
+</session>
